@@ -2,6 +2,11 @@
     <img src="https://i.imgur.com/T4Pq4Gx.png" width="200px" />
 </div>
 
+<div id="badges" align="center">
+    <img src="https://img.shields.io/badge/-LinkedIn-informational?style=social&logo=linkedin&logocolor=white" />
+</div>
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
