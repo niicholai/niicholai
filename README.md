@@ -1,9 +1,21 @@
 <div id="header" align="center">
-    <img src="https://i.imgur.com/T4Pq4Gx.png" width="200px" />
+    <a href="#">
+        <img src="https://i.imgur.com/T4Pq4Gx.png" width="200px" />
+    </a>
 </div>
 
 <div id="badges" align="center">
-    <img src="https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=linkedin&logocolor=white" />
+    <a href="https://www.linkedin.com/in/derekfoldswebdev/">
+        <img src="https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=linkedin&logocolor=white" />
+    </a>
+    
+    <a href="https://www.youtube.com/user/trustory90">
+        <img src="https://img.shields.io/badge/-LinkedIn-red?style=for-the-badge&logo=youtube&logocolor=white" />
+    </a>
+    
+    <a href="https://twitter.com/FoldsDerek">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=twitter&logocolor=white" />
+    </a>
 </div>
 
 
