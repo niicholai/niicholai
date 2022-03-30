@@ -19,11 +19,13 @@
 </div>
 
 <div id="greeting" align="center">
-    <h2>
+    <h3>
         Hello | Asalaam alaikum | Nǐn hǎo | Namastē | Zdravstvuyte
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    </h2>
+    </h3>
 </div>
+
+---
 
 :man_technologist: About Me:
 
@@ -34,3 +36,7 @@
 - 🌱 I am exploring Tailwind and looking forward to React.
 - 👯 I would love to do a collaboration, let's work together.
 - ⚡ Front-end is just the start of my journey, I aspire for full-stack development.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
