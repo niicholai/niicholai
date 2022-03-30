@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-    <img src="https://img.shields.io/badge/-LinkedIn-informational?style=social&logo=linkedin&logocolor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=linkedin&logocolor=white" />
 </div>
 
 
