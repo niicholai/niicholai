@@ -4,7 +4,7 @@
     </a>
 </div>
 
-<div id="badges" align="center">
+<div id="badges">
     <a href="https://www.linkedin.com/in/derekfoldswebdev/">
         <img src="https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=linkedin&logocolor=white" />
     </a>
