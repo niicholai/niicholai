@@ -49,3 +49,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=niicholai&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727)](https://git.io/streak-stats)<br/><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niicholai&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
