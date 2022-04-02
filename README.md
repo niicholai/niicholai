@@ -35,7 +35,7 @@
 - 🔭 I am currently expanding my front-end portfolio and open to employment offers.
 - 🌱 I am exploring Tailwind and looking forward to React.
 - 👯 I would love to do a collaboration, let's work together.
-- ⚡ Front-end is just the start of my journey, I aspire for full-stack development.
+- ⚡ Front-end is just the start of my journey, I aspire for full-stack development. 
 
 ---
 
