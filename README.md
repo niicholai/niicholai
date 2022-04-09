@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <a href="#">
         <img src="https://i.imgur.com/T4Pq4Gx.png" width="200px" />
-    </a>
+    </a> 
 </div>
 
 <div id="badges" align="center">
