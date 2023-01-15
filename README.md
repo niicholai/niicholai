@@ -52,6 +52,6 @@
 
 ---
 
-<div id=stats align=center>### :fire: My Stats :
+### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=niicholai&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727)](https://git.io/streak-stats)<br/><br/>
-[![Top Langs](https://github-readme-stats-nej3.vercel.app/api/top-langs/?username=niicholai&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</div>
+[![Top Langs](https://github-readme-stats-nej3.vercel.app/api/top-langs/?username=niicholai&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
