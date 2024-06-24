@@ -46,5 +46,5 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](github-readme-stats-nine-nu-56.vercel.app?user=niicholai&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727)](https://git.io/streak-stats)<br/><br/>
+[![GitHub Streak](http://github-readme-streak-stats-pi-teal.vercel.app?user=niicholai&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727)](https://git.io/streak-stats)<br/><br/>
 ![Top Langs](http://github-readme-stats-nine-nu-56.vercel.app/api/top-langs/?username=niicholai&layout=compact)
