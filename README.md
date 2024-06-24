@@ -24,8 +24,6 @@
 :man_technologist: About Me:
 
 - <img src="https://user-images.githubusercontent.com/21013968/160947588-dcf40a7f-f5f6-4179-901b-150d71e4fa58.png" height="15px" width="15px" /> &nbsp;I am a front-end developer from the United States.
-- :male_sign: He/Him
-- <img src="https://user-images.githubusercontent.com/21013968/160948169-0a850c27-1458-47dc-8dab-796124f37ef4.png" height="15px" width="15px"> &nbsp;Pan
 - 🔭 I am currently expanding my front-end portfolio and open to employment offers.
 - 🌱 I am exploring Tailwind and looking forward to React.
 - 👯 I would love to do a collaboration, let's work together.
