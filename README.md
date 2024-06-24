@@ -47,4 +47,4 @@
 
 ### :fire: My Stats :
 ![Anurag's GitHub stats](http://github-readme-stats-nine-nu-56.vercel.app/api?username=niicholai&show_icons=true&theme=radical)<br/><br/>
-![GitHub Streak](https://streak-stats.demolab.com?user=niicholai&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=niicholai&theme=radical)
