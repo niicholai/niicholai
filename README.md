@@ -5,14 +5,8 @@
 </div>
 
 <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/derekfoldswebdev/">
+    <a href="https://www.linkedin.com/in/derekfolds/">
         <img src="https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=linkedin&logocolor=white" />
-    </a>
-    <a href="https://www.youtube.com/user/trustory90">
-        <img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logocolor=white" />
-    </a>
-    <a href="https://twitter.com/FoldsDerek">
-        <img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logocolor=white" />
     </a>
     </br>
     <img src="https://komarev.com/ghpvc/?username=niicholai&style=flat-square&color=blue" alt=""/>
