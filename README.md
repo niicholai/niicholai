@@ -46,5 +46,5 @@
 ---
 
 ### :fire: My Stats :
-![Top Langs](http://github-readme-stats-nine-nu-56.vercel.app/api/top-langs/?username=niicholai&layout=compact)<br/><br/
+![Top Langs](http://github-readme-stats-nine-nu-56.vercel.app/api/top-langs/?username=niicholai&layout=compact)<br/><br/>
 ![GitHub Streak](https://streak-stats.demolab.com?user=niicholai&theme=dark)
